@@ -118,7 +118,7 @@ msgstr  "Theme"
 
 msgctxt "files"
 msgid   "Comma-separated values"
-mgsstr  "Komma-getrennte Werte"
+mgsstr  "Komma getrennte Werte"
 
 msgctxt "files"
 msgid   "Material tables"
@@ -192,7 +192,7 @@ msgid  "Error downloading: {0}"
 msgstr "Fehler beim Herunterladen: {0}"
 
 msgid  "Dismiss"
-msgstr "abweisen"
+msgstr "Verwerfen"
 
 msgid  "This program is about to exit to apply the Service Pack.\nClick Cancel if you need to save your work beforehand."
 msgstr "Dieses Programm wird gerade beendet, um das Service Pack anzuwenden.\nKlicken Sie auf Abbrechen, wenn Sie Ihre Arbeit zuvor speichern möchten."
@@ -273,13 +273,13 @@ msgid  "E-mail:"
 msgstr "E-mail:"
 
 msgid  "Password:"
-msgstr "Password:"
+msgstr "Passwort:"
 
 msgid  "My Account"
-msgstr "My Account"
+msgstr "Mein Account"
 
 msgid  "Register"
-msgstr "Register"
+msgstr "Registrieren"
 
 msgid  "Log In"
 msgstr "Log In"
@@ -333,10 +333,10 @@ msgid  "System &Information"
 msgstr "System &Information"
 
 msgid  "Show Serial &Number..."
-msgstr "Show Serial &Number..."
+msgstr "Zeige Serial &Nummer..."
 
 msgid  "&Help"
-msgstr "&Help"
+msgstr "&Hilfe"
 
 msgid  "&Website"
 msgstr "&Website"
@@ -351,13 +351,13 @@ msgid  "Bug Report"
 msgstr "Bug Report"
 
 msgid  "E-mail Address (optional):"
-msgstr "E-mail Address (optional):"
+msgstr "E-mail Addresse (optional):"
 
 msgid  "&Send"
-msgstr "&Send"
+msgstr "&Senden"
 f
 msgid  "Send &Feedback"
-msgstr "Send &Feedback"
+msgstr "Sende &Feedback"
 
 msgid  "Feedback Form"
 msgstr "Feedback Form"
@@ -366,10 +366,10 @@ msgid  "U.S. &Patents"
 msgstr "U.S. &Patents"
 
 msgid  "&About {0}"
-msgstr "&About {0}"
+msgstr "&Über {0}"
 
 msgid  "About {0}"
-msgstr "About {0}"
+msgstr "Über {0}"
 
 #. Undo History dialog
 msgid  "Undo History"
@@ -388,82 +388,82 @@ msgstr "Forward"
 msgid        "{0} minute"
 msgid_plural "{0} minutes"
 msgstr[0]    "{0} minute"
-msgstr[1]    "{0} minutes"
+msgstr[1]    "{0} minuten"
 
 msgid        "{0} hour"
 msgid_plural "{0} hours"
-msgstr[0]    "{0} hour"
-msgstr[1]    "{0} hours"
+msgstr[0]    "{0} stunde"
+msgstr[1]    "{0} stunden"
 
 #. About dialog
 msgid  "License"
-msgstr "License"
+msgstr "Lizenz"
 
 #. Connect dialog
 msgid  "Connect"
-msgstr "Connect"
+msgstr "Verbinden"
 
 msgid  "Device"
 msgstr "Device"
 
 msgid  "Rename..."
-msgstr "Rename..."
+msgstr "Umbenennen..."
 
 #. Connect dialog Rename Device
 msgid  "Rename Device"
-msgstr "Rename Device"
+msgstr "Gerät umbenennen"
 
 msgid  "New Name:"
-msgstr "New Name:"
+msgstr "Neuer Name:"
 
 #. toolbar
 msgid  "Connect and &Download Settings"
-msgstr "Connect and &Download Settings"
+msgstr "Verbinden und Herunterladen von Einstellungen"
 
 msgid  "&Upload Settings to Device"
-msgstr "&Upload Settings to Device"
+msgstr "&Einstellungen auf das Gerät hochladen"
 
 msgid  "Device &Monitor"
-msgstr "Device &Monitor"
+msgstr "Geräteüberwachung"
 
 msgid  "{0} connected on USB."
-msgstr "{0} connected on USB."
+msgstr "{0} verbunden über USB."
 
 #. progress bar
 msgid  "Preparing Device"
-msgstr "Preparing Device"
+msgstr "Gerät vorbereiten"
 
 msgid  "Checking Settings"
-msgstr "Checking Settings"
+msgstr "Überprüfen der Einstellungen"
 
 msgid  "Downloading Settings"
-msgstr "Downloading Settings"
+msgstr "Herunterladen von Einstellungen"
 
 msgid  "Uploading Settings"
-msgstr "Uploading Settings"
+msgstr "Hochladen von Einstellungen"
 
 msgid  "Verifying Settings"
-msgstr "Verifying Settings"
+msgstr "Überprüfen der Einstellungen"
 
 #. errors
 msgid  "There are no settings on this device."
-msgstr "There are no settings on this device."
+msgstr "Es gibt keine Einstellungen auf diesem Gerät."
 
 msgid  "The settings on this device are not complete."
-msgstr "The settings on this device are not complete."
+msgstr "Die Einstellungen auf diesem Gerät sind nicht vollständig."
 
 msgid  "Restore default settings?"
-msgstr "Restore default settings?"
+msgstr "Standardeinstellungen wiederherstellen?"
 
 #. General tab
 msgid  "General"
 msgstr "General"
 
 msgid  "My DNA"
-msgstr "My DNA"
+msgstr "Meine DNA"
 
 msgid  "Manufacturer:"
-msgstr "Manufacturer:"
+msgstr "Hersteller:"
 
 msgid  "Model:"
 msgstr "Model:"
@@ -472,37 +472,37 @@ msgid  "History:"
 msgstr "History:"
 
 msgid  "Get Information"
-msgstr "Get Information"
+msgstr "Informationen anfordern"
 
 msgid  "{0} can get information online about your mod."
-msgstr "{0} can get information online about your mod."
+msgstr "{0} kann online Informationen über deinen Mod erhalten."
 
 msgid  "Restore Defaults"
-msgstr "Restore Defaults"
+msgstr "Standardwerte wiederherstellen"
 
 msgid  "Profile {0}"
-msgstr "Profile {0}"
+msgstr "Profil {0}"
 
 msgid  "Name:"
 msgstr "Name:"
 
 msgid  "Custom Screen:"
-msgstr "Custom Screen:"
+msgstr "Benutzerdefinierter Bildschirm:"
 
 msgid  "Settings"
-msgstr "Settings"
+msgstr "Einstellungen"
 
 msgid  "Power:"
 msgstr "Power:"
 
 msgid  "Temperature:"
-msgstr "Temperature:"
+msgstr "Temperatur:"
 
 msgid  "Ohms Locked"
-msgstr "Ohms Locked"
+msgstr "Ohm Gesperrt"
 
 msgid  "If you connect a temperature-sensing coil..."
-msgstr "If you connect a temperature-sensing coil..."
+msgstr "Wenn Sie eine Temperaturfühlerspule anschließen..."
 
 msgid  "Coil Material:"
 msgstr "Coil Material:"
@@ -514,13 +514,13 @@ msgid  "Nickel 200"
 msgstr "Nickel 200"
 
 msgid  "Custom"
-msgstr "Custom"
+msgstr "Benutzerdefiniert"
 
 msgid  "Material Profile:"
 msgstr "Material Profile:"
 
 msgid  "Move/Resize"
-msgstr "Move/Resize"
+msgstr "Verschieben/Größenänderung"
 
 msgid  "Split"
 msgstr "Split"
@@ -541,13 +541,13 @@ msgid  "Y value:"
 msgstr "Y value:"
 
 msgid  "Custom Materials"
-msgstr "Custom Materials"
+msgstr "Benutzerdefinierte Materialien"
 
 msgid  "Load CSV..."
-msgstr "Load CSV..."
+msgstr "Lade CSV..."
 
 msgid  "Save CSV..."
-msgstr "Save CSV..."
+msgstr "Speichere CSV..."
 
 msgid  "Label..."
 msgstr "Label..."
@@ -556,16 +556,16 @@ msgid  "Special"
 msgstr "Special"
 
 msgid  "Reduce Number of Points..."
-msgstr "Reduce Number of Points..."
+msgstr "Anzahl der Punkte reduzieren..."
 
 msgid  "Temperature Coefficient of Resistance (Approximation)..."
-msgstr "Temperature Coefficient of Resistance (Approximation)..."
+msgstr "Temperatur-Widerstandskoeffizient (Approximation)..."
 
 msgid  "Preheat Power:"
-msgstr "Preheat Power:"
+msgstr "Vorheiz Power:"
 
 msgid  "Preheat Punch:"
-msgstr "Preheat Punch:"
+msgstr "Vorheiz Punch:"
 
 msgid  "Soft"
 msgstr "Soft"
@@ -574,7 +574,7 @@ msgid  "Hard"
 msgstr "Hard"
 
 msgid  "Preheat Time Limit:"
-msgstr "Preheat Time Limit:"
+msgstr "Vorheizzeitbegrenzung:"
 
 
 #. Atomizer Analyzer
@@ -582,41 +582,41 @@ msgid  "Atomizer Analyzer"
 msgstr "Atomizer Analyzer"
 
 msgid  "{0} can be used to analyze your atomizer's resistance stability."
-msgstr "{0} can be used to analyze your atomizer's resistance stability."
+msgstr "{0} ann verwendet werden, um die Widerstandsfähigkeit Ihres Zerstäuber's zu analysieren."
 
 msgid  "For an atomizer to work reliably with temperature protection, it must make good contact so as to not change Ohms arbitrarily. Because temperature-sensing atomizers tend to be low-Ohm, the mechanical design can make a big difference, in a way that is not evident when an atomizer is being used for power control only."
-msgstr "For an atomizer to work reliably with temperature protection, it must make good contact so as to not change Ohms arbitrarily. Because temperature-sensing atomizers tend to be low-Ohm, the mechanical design can make a big difference, in a way that is not evident when an atomizer is being used for power control only."
+msgstr "Damit ein Zerstäuber zuverlässig mit Temperaturschutz arbeitet, muss er einen guten Kontakt haben, um Ohm nicht beliebig zu verändern. Da Temperaturfühler-Zerstäuber in der Regel niederohmig sind, kann der mechanische Aufbau einen großen Unterschied machen, der nicht sichtbar ist, wenn ein Zerstäuber nur zur Leistungsregelung verwendet wird."
 
 msgid  "Many atomizer designs provide stable Ohms, but we have encountered cases of poor contact not only with loosened connections, but with (seemingly) tight ones. This analyzer is meant to help you determine whether the atomizer you are using is sufficiently well-designed to work reliably with temperature protection. It will measure once per second."
-msgstr "Many atomizer designs provide stable Ohms, but we have encountered cases of poor contact not only with loosened connections, but with (seemingly) tight ones. This analyzer is meant to help you determine whether the atomizer you are using is sufficiently well-designed to work reliably with temperature protection. It will measure once per second."
+msgstr "Viele Zerstäuberdesigns bieten stabile Ohmwerte, aber wir sind auf Fälle von schlechtem Kontakt nicht nur mit gelockerten, sondern auch mit (scheinbar) engen Verbindungen gestoßen. Dieser Analysator soll Ihnen helfen festzustellen, ob der von Ihnen verwendete Zerstäuber so gut ausgelegt ist, dass er zuverlässig mit Temperaturschutz arbeitet. Es wird einmal pro Sekunde gemessen."
 
 msgid  "To test, slowly change how tightly screwed in your atomizer connection is, and see if the Ohms changes significantly as you turn, or if certain positions have different Ohms. Ideally, your atomizer Ohms should be stable."
-msgstr "To test, slowly change how tightly screwed in your atomizer connection is, and see if the Ohms changes significantly as you turn, or if certain positions have different Ohms. Ideally, your atomizer Ohms should be stable."
+msgstr "Zum Testen ändern Sie langsam, wie fest Ihre Zerstäuberverbindung verschraubt ist, und sehen Sie, ob sich die Ohmwerte beim Drehen signifikant ändern oder ob bestimmte Positionen unterschiedliche Ohmwerte aufweisen. Im Idealfall sollte Ihr Zerstäuber Ohm stabil sein."
 
 msgid  "Note: Recent puffs may mean the atomizer is still hot. Because Ohms is temperature-sensing, it will change until the temperature reaches equilibrium. Also, this analyzer will slightly warm the atomizer."
-msgstr "Note: Recent puffs may mean the atomizer is still hot. Because Ohms is temperature-sensing, it will change until the temperature reaches equilibrium. Also, this analyzer will slightly warm the atomizer."
+msgstr "Hinweis: Die letzten Aufschläge können bedeuten, dass der Zerstäuber noch heiß ist. Da Ohm die Temperatur erfasst, ändert er sich, bis die Temperatur das Gleichgewicht erreicht hat. Außerdem erwärmt dieser Analysator den Zerstäuber leicht."
 
 #. Theme tab
 msgid  "Theme"
 msgstr "Theme"
 
 msgid  "Load Theme..."
-msgstr "Load Theme..."
+msgstr "Lade Theme..."
 
 msgid  "Save Theme..."
-msgstr "Save Theme..."
+msgstr "Speichere Theme..."
 
 msgid  "Default Theme"
 msgstr "Default Theme"
 
 msgid  "Custom Screens"
-msgstr "Custom Screens"
+msgstr "Benutzerdefinierte Bildschirme"
 
 msgid  "Screens are {0} pixels wide and {1} pixels tall."
-msgstr "Screens are {0} pixels wide and {1} pixels tall."
+msgstr "Die Bildschirme sind {0} Pixel breit und {1} Pixel hoch."
 
 msgid  "Capture..."
-msgstr "Capture..."
+msgstr "Erfassen..."
 
 msgid  "Load..."
 msgstr "Load..."
@@ -625,13 +625,13 @@ msgid  "Save..."
 msgstr "Save..."
 
 msgid  "Default"
-msgstr "Default"
+msgstr "Standard"
 
 msgid  "Welcome (Primary):"
-msgstr "Welcome (Primary):"
+msgstr "Willkommen (Primär):"
 
 msgid  "Welcome (Secondary):"
-msgstr "Welcome (Secondary):"
+msgstr "Willkommen (Sekundär):"
 
 msgid  "Normal Mode:"
 msgstr "Normal Mode:"
@@ -640,13 +640,13 @@ msgid  "Stealth Mode:"
 msgstr "Stealth Mode:"
 
 msgid  "New Coil Yes/No:"
-msgstr "New Coil Yes/No:"
+msgstr "Neue Coil Ja/Nein:"
 
 msgid  "Hold To Lock Ohms:"
-msgstr "Hold To Lock Ohms:"
+msgstr "Gedrückt halten, um die Ohmwerte zu sperren:"
 
 msgid  "Hold To Unlock Ohms:"
-msgstr "Hold To Unlock Ohms:"
+msgstr "Gedrückt halten, um Ohms freizuschalten:"
 
 msgid  "Power Locked Hold Up Down:"
 msgstr "Power Locked Hold Up Down:"
@@ -710,22 +710,22 @@ msgstr "Imbalanced Battery:"
 
 #. Screen tab
 msgid  "Screen"
-msgstr "Screen"
+msgstr "Bildschirm"
 
 msgid  "Display"
 msgstr "Display"
 
 msgid  "Orientation:"
-msgstr "Orientation:"
+msgstr "Orientierung:"
 
 msgid  "Left"
-msgstr "Left"
+msgstr "Links"
 
 msgid  "Right"
-msgstr "Right"
+msgstr "Rechts"
 
 msgid  "Battery Meter:"
-msgstr "Battery Meter:"
+msgstr "Batterieanzeige:"
 
 msgid  "On Default Screens"
 msgstr "On Default Screens"
@@ -873,16 +873,16 @@ msgid  "Mod"
 msgstr "Mod"
 
 msgid  "If your device has been configured appropriately, you should not need to edit any Mod settings."
-msgstr "If your device has been configured appropriately, you should not need to edit any Mod settings."
+msgstr "Wenn Ihr Gerät entsprechend konfiguriert ist, sollten Sie keine Mod-Einstellungen bearbeiten müssen."
 
 msgid  "Your device manufacturer should have filled out all Mod settings for you."
-mgsstr "Your device manufacturer should have filled out all Mod settings for you."
+mgsstr "Ihr Gerätehersteller sollte alle Mod-Einstellungen für Sie ausgefüllt haben."
 
 msgid  "If you would like to configure Mod settings anyway, go to the Options menu, click User Interface, and choose the Advanced, Researcher, or Manufacturer interface."
-msgstr "If you would like to configure Mod settings anyway, go to the Options menu, click User Interface, and choose the Advanced, Researcher, or Manufacturer interface."
+msgstr "Wenn Sie die Mod-Einstellungen trotzdem konfigurieren möchten, gehen Sie zum Menü Optionen, klicken Sie auf Benutzeroberfläche und wählen Sie die Schnittstelle Erweitert, Forscher oder Hersteller."
 
 msgid  "Battery"
-msgstr "Battery"
+msgstr "Batterie"
 
 msgid  "Type:"
 msgstr "Type:"
@@ -897,25 +897,25 @@ msgid  "Power Supply"
 msgstr "Power Supply"
 
 msgid  "Capacity:"
-msgstr "Capacity:"
+msgstr "Kapazität:"
 
 msgid "Removable"
-msgstr "Removable"
+msgstr "Herausnehmbar"
 
 msgid  "Non-Removable"
-msgstr "Non-Removable"
+msgstr "Nicht herausnehmbar"
 
 msgid  "{0}-cell"
 msgstr "{0}-cell"
 
 msgid  "Watt-Hour Calculator"
-msgstr "Watt-Hour Calculator"
+msgstr "Wattstundenrechner"
 
 msgid  "Cell Soft Cutoff:"
-msgstr "Cell Soft Cutoff:"
+msgstr "Zellenweichabschaltung:"
 
 msgid  "Charging Mode:"
-msgstr "Charging Mode:"
+msgstr "Lademodus:"
 
 msgid  "Maximize Puffs"
 msgstr "Maximize Puffs"
@@ -927,19 +927,19 @@ msgid  "Discharge Profile:"
 msgstr "Discharge Profile:"
 
 msgid  "Battery Analyzer"
-msgstr "Battery Analyzer"
+msgstr "Batterie-Analysator"
 
 msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
-msgstr "{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr "{0} kann verwendet werden, um die Kapazität und das Entladeprofil Ihrer Batterie zu analysieren."
 
 msgid  "Electrical"
-msgstr "Electrical"
+msgstr "Elektrisch"
 
 msgid  "Kanthal Power Limit:"
-msgstr "Kanthal Power Limit:"
+msgstr "Kanthal Leistungsbegrenzung:"
 
 msgid  "Mod Resistance:"
-msgstr "Mod Resistance:"
+msgstr "Mod Widerstand:"
 
 msgid  "Ohm Lock Range: ±"
 msgstr "Ohm Lock Range: ±"
@@ -948,7 +948,7 @@ msgid  "Mechanical"
 msgstr "Mechanical"
 
 msgid  "Up/Down Buttons:"
-msgstr "Up/Down Buttons:"
+msgstr "Auf-/Ab-Tasten:"
 
 msgid  "Normal"
 msgstr "Normal"
@@ -963,20 +963,20 @@ msgid  "Case Analyzer"
 msgstr "Case Analyzer"
 
 msgid  "{0} can be used to analyze your case's thermal properties."
-msgstr "{0} can be used to analyze your case's thermal properties."
+msgstr "{0} kann verwendet werden, um die thermischen Eigenschaften Ihres Gehäuse zu analysieren."
 
 #. Research tab
 msgid  "Research"
 msgstr "Research"
 
 msgid  "Research settings are meant for scientific use. Unless you are conducting a study, they are probably not of interest to you."
-msgstr "Research settings are meant for scientific use. Unless you are conducting a study, they are probably not of interest to you."
+msgstr "Die Forschungseinrichtungen sind für den wissenschaftlichen Gebrauch bestimmt. Wenn Sie keine Studie durchführen, sind sie wahrscheinlich für Sie nicht von Interesse."
 
 msgid  "If you would like to configure Research options, go to the Options menu, click User Interface, and choose the Researcher or Manufacturer interface."
-msgstr "If you would like to configure Research options, go to the Options menu, click User Interface, and choose the Researcher or Manufacturer interface."
+msgstr "Wenn Sie Forschungsoptionen konfigurieren möchten, gehen Sie zum Menü Optionen, klicken Sie auf Benutzeroberfläche und wählen Sie die Benutzeroberfläche für Forscher oder Hersteller."
 
 msgid  "Data Acquisition"
-msgstr "Data Acquisition"
+msgstr "Datenerfassung"
 
 msgid  "Serial Output Format:"
 msgstr "Serial Output Format:"
