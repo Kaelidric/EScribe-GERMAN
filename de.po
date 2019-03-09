@@ -404,7 +404,7 @@ msgid  "Connect"
 msgstr "Verbinden"
 
 msgid  "Device"
-msgstr "Device"
+msgstr "Gerät"
 
 msgid  "Rename..."
 msgstr "Umbenennen..."
@@ -1133,7 +1133,7 @@ msgid  "Set &Time Scale..."
 msgstr "Set &Time Scale..."
 
 msgid  "Puf&f..."
-msgstr "Puf&f..."
+msgstr "Zug..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
@@ -1159,31 +1159,31 @@ msgid  "Power (W):"
 msgstr "Power (W):"
 
 msgid  "Set &Temperature..."
-msgstr "Set &Temperature..."
+msgstr "Temperatur einstellen..."
 
 msgid  "Set Temperature"
-msgstr "Set Temperature"
+msgstr "Temperatur einstellen"
 
 msgid  "Units:"
-msgstr "Units:"
+msgstr "Einheiten:"
 
 msgid  "&Disable Temperature Protection"
-msgstr "&Disable Temperature Protection"
+msgstr "Temperaturschutz deaktivieren"
 
 msgid  "&Research"
 msgstr "&Research"
 
 msgid  "Enter Temperature &Monitoring Mode..."
-msgstr "Enter Temperature &Monitoring Mode..."
+msgstr "In den Temperaturüberwachungsmodus wechseln..."
 
 msgid  "&Diagnostics"
-msgstr "&Diagnostics"
+msgstr "&Diagnostik"
 
 msgid  "Set &Profile..."
-msgstr "Set &Profile..."
+msgstr "Profil einstellen..."
 
 msgid  "Set Profile"
-msgstr "Set Profile"
+msgstr "Profil einstellen"
 
 msgid  "Set &Charge Estimate..."
 msgstr "Set &Charge Estimate..."
@@ -1195,25 +1195,25 @@ msgid  "&Reset USB Current Limit"
 msgstr "&Reset USB Current Limit"
 
 msgid  "&Disable USB Charging"
-msgstr "&Disable USB Charging"
+msgstr "USB-Laden deaktivieren"
 
 msgid  "&Enable USB Charging"
-msgstr "&Enable USB Charging"
+msgstr "USB-Laden aktivieren"
 
 msgid  "Identify Device"
-msgstr "Identify Device"
+msgstr "Gerät identifizieren"
 
 msgid  "&Issue Serial Command..."
-msgstr "&Issue Serial Command..."
+msgstr "&Ausgabe des seriellen Befehls..."
 
 msgid  "R&un Script..."
-msgstr "R&un Script..."
+msgstr "Skript ausführen..."
 
 msgid  "Update Cloc&k"
-msgstr "Update Cloc&k"
+msgstr "Update Uhr"
 
 msgid  "Reset &Statistics"
-msgstr "Reset &Statistics"
+msgstr "Statistik zurücksetzen"
 
 msgid  "Resets: {0}"
 msgstr "Resets: {0}"
@@ -1233,7 +1233,7 @@ msgid  "Power Locked"
 msgstr "Power Locked"
 
 msgid  "Buttons:"
-msgstr "Buttons:"
+msgstr "Tasten:"
 
 msgid  "None"
 msgstr "None"
@@ -1256,10 +1256,10 @@ msgstr "Celsius"
 #. Device Monitor
 #. View menu
 msgid  "On-Screen Buttons"
-msgstr "On-Screen Buttons"
+msgstr "Bildschirmtasten"
 
 msgid  "Take Screenshot..."
-msgstr "Take Screenshot..."
+msgstr "Screenshot erstellen..."
 
 msgctxt "dmUnits"
 msgid   "USB Power"
@@ -1275,11 +1275,11 @@ msgstr  "USB Voltage"
 
 msgctxt "dmUnits"
 msgid   "Battery Cell"
-msgstr  "Battery Cell"
+msgstr  "Batteriezelle"
 
 msgctxt "dmUnits"
 msgid   "Battery Pack"
-msgstr  "Battery Pack"
+msgstr  "Batteriepack"
 
 msgctxt "dmUnits"
 msgid   "Battery Charge"
@@ -1307,22 +1307,22 @@ msgstr  "Ohms"
 
 msgctxt "dmUnits"
 msgid   "Temperature"
-msgstr  "Temperature"
+msgstr  "Temperatur"
 
 msgctxt "dmUnits"
 msgid   "Room Temperature"
-msgstr  "Room Temperature"
+msgstr  "Raumtemperatur"
 
 msgctxt "dmUnits"
 msgid   "Puffs"
-msgstr  "Puffs"
+msgstr  "Züge"
 
 msgctxt "dmUnits"
 msgid   "Time"
 msgstr  "Time"
 
 msgid "Set Axis Range"
-msgstr "Set Axis Range"
+msgstr "Achsbereich einstellen"
 
 msgid  "Minimum:"
 msgstr "Minimum:"
@@ -1331,20 +1331,20 @@ msgid  "Maximum:"
 msgstr "Maximum:"
 
 msgid  "&Reset Axes"
-msgstr "&Reset Axes"
+msgstr "Achsen zurücksetzen"
 
 #. added in EScribe 2.0 SP5
 #. Device Monitor
 #. File menu
 msgid  "&Close"
-msgstr "&Close"
+msgstr "Schließen"
 
 #. Recording menu
 msgid  "&Recording"
-msgstr "&Recording"
+msgstr "Aufzeichnung"
 
 msgid  "Show Live Data"
-msgstr "Show Live Data"
+msgstr "Live-Daten anzeigen"
 
 msgid  "&Record..."
 msgstr "&Record..."
@@ -1373,10 +1373,10 @@ msgstr "Show &Newest Device Recording"
 #. added in 2015-08-07
 #. Get Information
 msgid  "Board programmed"
-msgstr "Board programmed"
+msgstr "Platine programmiert"
 
 msgid  "Mod configured"
-msgstr "Mod configured"
+msgstr "Mod konfiguriert"
 
 #. added in 2015-08-07
 #. curve editing
@@ -1405,27 +1405,27 @@ msgid  "Temperature Coefficient of Resistance"
 msgstr "Temperature Coefficient of Resistance"
 
 msgid  "Electrical Resistivity"
-msgstr "Electrical Resistivity"
+msgstr "Elektrischer Widerstand"
 
 msgid  "Temperature (°F)"
-msgstr "Temperature (°F)"
+msgstr "Temperatur (°F)"
 
 msgid  "Cell Voltage (V)"
-msgstr "Cell Voltage (V)"
+msgstr "Zellenspannung (V)"
 
 msgid  "Battery Charge (%)"
-msgstr "Battery Charge (%)"
+msgstr "Akkuladung (%)"
 
 #. added in 2015-08-07
 #. Device Monitor
 msgid  "Set Time Scale"
-msgstr "Set Time Scale"
+msgstr "Zeitskala einstellen"
 
 msgid  "Time Scale (seconds):"
-msgstr "Time Scale (seconds):"
+msgstr "Zeitskala (seconds):"
 
 msgid  "Profile:"
-msgstr "Profile:"
+msgstr "Profil:"
 
 msgid  "Set Charge Estimate"
 msgstr "Set Charge Estimate"
@@ -1443,10 +1443,10 @@ msgid  "Temperature Monitoring Mode"
 msgstr "Temperaturüberwachungsmodus"
 
 msgid  "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
-msgstr "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
+msgstr "Im Temperaturüberwachungsmodus wird die Temperatur angezeigt.\nSie wird NICHT in irgendeiner Weise eingeschränkt."
 
 msgid  "Continue?"
-msgstr "Continue?"
+msgstr "Fortfahren?"
 
 #. added in 2015-08-07
 #. Theme tab
@@ -1459,13 +1459,13 @@ msgid  "Ohms:"
 msgstr "Ohms:"
 
 msgid  "Raw Ohms:"
-msgstr "Raw Ohms:"
+msgstr "Roh-Ohm:"
 
 msgid  "Nominal Ohms:"
-msgstr "Nominal Ohms:"
+msgstr "Nominale Ohm:"
 
 msgid  "Room Temp:"
-msgstr "Room Temp:"
+msgstr "Raumtemp.:"
 
 msgid  "{0} (Kanthal), {1} (Temp)"
 msgstr "{0} (Kanthal), {1} (Temp)"
@@ -1496,31 +1496,31 @@ msgid  "Battery Pack Voltage"
 msgstr "Akkupackspannung"
 
 msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
-msgstr "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
+msgstr "Weißt du, wie hoch die Gesamtspannung deines Akkupacks ist?\nDas ist normalerweise aufgedruckt."
 
 msgid  "Calculate Watt-Hours"
 msgstr "Calculate Watt-Hours"
 
 msgid  "Battery Cell Capacity (mAh):"
-msgstr "Battery Cell Capacity (mAh):"
+msgstr "Kapazität der Batteriezelle (mAh):"
 
 msgid  "Number of Battery Cells:"
-msgstr "Number of Battery Cells:"
+msgstr "Anzahl der Batteriezellen:"
 
 msgid  "Nominal Cell Voltage:"
-msgstr "Nominal Cell Voltage:"
+msgstr "Nennzellenspannung:"
 
 msgid  "Nominal Pack Voltage:"
-msgstr "Nominal Pack Voltage:"
+msgstr "Nennspannung des Pakets:"
 
 msgid  "Calculation Result"
-msgstr "Calculation Result"
+msgstr "Berechnungsergebnis"
 
 msgid  "Your battery has a capacity of {0} watt-hours."
-msgstr "Your battery has a capacity of {0} watt-hours."
+msgstr "Ihr Akku hat eine Kapazität von {0} Wattstunden."
 
 msgid  "Use this value?"
-msgstr "Use this value?"
+msgstr "Diesen Wert verwenden?"
 
 #. added in 2015-08-07
 #. Research tab
@@ -1540,7 +1540,7 @@ msgid  "Reached the rate limit. Try again later."
 msgstr "Reached the rate limit. Try again later."
 
 msgid  "Success"
-msgstr "Success"
+msgstr "Erfolg"
 
 msgid  "Research seal applied."
 msgstr "Research seal applied."
@@ -1563,13 +1563,13 @@ msgstr "Dieses Gerät wurde nicht für Forschungszwecke versiegelt."
 #. added in 2015-08-07
 #. Tools->Show Serial Number
 msgid  "Serial Number"
-msgstr "Serial Number"
+msgstr "Seriennummer"
 
 msgid  "Copy to Clipboard?"
-msgstr "Copy to Clipboard?"
+msgstr "In die Zwischenablage kopieren?"
 
 msgid  "Copied."
-msgstr "Copied."
+msgstr "Kopiert."
 
 #. added in 2015-08-07
 #. Tools->Production Utility
@@ -1577,13 +1577,13 @@ msgid  "Production Utility"
 msgstr "Production Utility"
 
 msgid  "&Save..."
-msgstr "&Save..."
+msgstr "Speichern..."
 
 msgid  "Browse..."
-msgstr "Browse..."
+msgstr "Durchsuchen..."
 
 msgid  "Model Name:"
-msgstr "Model Name:"
+msgstr "Modellbezeichnung:"
 
 msgid  "Firmware File:"
 msgstr "Firmware File:"
@@ -1611,20 +1611,20 @@ msgstr "&Hard Reboot..."
 
 #. Tools->Diagnostics->Internet Sync
 msgid  "&Internet Sync"
-msgstr "&Internet Sync"
+msgstr "Internet-Synchronisation"
 
 msgid  "&Enable..."
-msgstr "&Enable..."
+msgstr "Aktivieren..."
 
 msgid  "&Disable..."
-mgsstr "&Disable..."
+mgsstr "Deaktivieren..."
 
 #. Tools->Diagnostics->Show Diagnostic Information
 msgid  "Show &Diagnostic Information..."
-msgstr "Show &Diagnostic Information..."
+msgstr "Diagnoseinformationen anzeigen..."
 
 msgid  "Diagnostic Information"
-msgstr "Diagnostic Information"
+msgstr "Diagnoseinformationen"
 
 msgid  "Serial Number:"
 msgstr "Serial Number:"
@@ -1688,16 +1688,16 @@ msgstr "What is the room temperature (°F)?"
 
 #. Production Utility
 msgid  "Select Device"
-msgstr "Select Device"
+msgstr "Gerät auswählen"
 
 msgid  "Device:"
-msgstr "Device:"
+msgstr "gERÄT:"
 
 msgid  "Select the latest firmware to have it loaded onto the device."
-msgstr "Select the latest firmware to have it loaded onto the device."
+msgstr "Wählen Sie die neueste Firmware aus, damit sie auf das Gerät geladen wird."
 
 msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
-msgstr "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
+msgstr "Wählen Sie die Standardeinstellungsdatei Ihres Mods aus. Sie kann neu geladen werden, indem Sie auf Standardwerte wiederherstellen klicken."
 
 msgid  "Functional Tests"
 msgstr "Functional Tests"
@@ -1706,7 +1706,7 @@ msgid  "Fire Test"
 msgstr "Fire Test"
 
 msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
-msgstr "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
+msgstr "Überprüft, ob das Gerät in der Lage ist, Ohm's korrekt auszulösen und zu lesen. Schließen Sie einen Widerstand oder eine Nicht-Temperaturspule an."
 
 msgid  "Fire Time:"
 msgstr "Fire Time:"
@@ -1721,16 +1721,16 @@ msgid  "Battery Test"
 msgstr "Battery Test"
 
 msgid  "Makes sure the battery cells have reasonable voltages and can be charged."
-msgstr "Makes sure the battery cells have reasonable voltages and can be charged."
+msgstr "Vergewissert sich, dass die Batteriezellen eine angemessene Spannung haben und aufgeladen werden können."
 
 msgid  "Makes sure the battery cells have reasonable voltages."
-msgstr "Makes sure the battery cells have reasonable voltages."
+msgstr "Stellen Sie sicher, dass die Batteriezellen eine angemessene Spannung haben."
 
 msgid  "Minimum Cell Voltage:"
-msgstr "Minimum Cell Voltage:"
+msgstr "Minimale Zellenspannung:"
 
 msgid  "Maximum Cell Imbalance:"
-msgstr "Maximum Cell Imbalance:"
+msgstr "Maximale Zellungleichheit:"
 
 msgid  "Wait for USB Current to Rise Above:"
 msgstr "Wait for USB Current to Rise Above:"
@@ -1782,24 +1782,24 @@ msgid  "Watts Press Increment:"
 msgstr "Watts Press Increment:"
 
 msgid  "How much the power setting changes when the Up or Down button is pressed."
-msgstr "How much the power setting changes when the Up or Down button is pressed."
+msgstr "Wie stark sich die Leistungseinstellung ändert, wenn die Up- oder Down-Taste gedrückt wird."
 
 msgid  "Watts Hold Increment:"
 msgstr "Watts Hold Increment:"
 
 msgid  "How much the power setting changes when the Up or Down button has been held down for a long time."
-msgstr "How much the power setting changes when the Up or Down button has been held down for a long time."
+msgstr "Wie stark sich die Leistungseinstellung ändert, wenn die Auf- oder Ab-Taste lange gedrückt gehalten wird."
 
 msgid  "Temperature Increment:"
 msgstr "Temperature Increment:"
 
 msgid  "How much the temperature setting changes when the Up or Down button is pressed."
-msgstr "How much the temperature setting changes when the Up or Down button is pressed."
+msgstr "Wie stark sich die Temperatureinstellung ändert, wenn die Up- oder Down-Taste gedrückt wird."
 
 #. added in 2015-10-20
 #. Connect errors
 msgid  "Nothing Connected"
-msgstr "Nothing Connected"
+msgstr "Nichts verbunden"
 
 msgid  "No compatible USB devices are connected."
 msgstr "No compatible USB devices are connected."
@@ -1816,7 +1816,7 @@ msgstr "Sind Sie sicher, dass Sie Ihre Statistiken zurücksetzen möchten?"
 
 #. General tab
 msgid  "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
-msgstr "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
+msgstr "Sind Sie sicher, dass Sie die Herstellereinstellungen wiederherstellen möchten?\nAlle Anpassungen, die Sie vorgenommen haben, gehen verloren."
 
 msgid  "Load Profile..."
 msgstr "Load Profile..."
@@ -1856,7 +1856,7 @@ msgid  "Select Configuration"
 msgstr "Select Configuration"
 
 msgid  "{0} watts / {1}"
-msgstr "{0} watts / {1}"
+msgstr "{0} Watt / {1}"
 
 #. menus
 #. File
@@ -1887,10 +1887,10 @@ msgid  "&Autodetect"
 msgstr "&Automatische Erkennung"
 
 msgid  "&Install..."
-msgstr "&Install..."
+msgstr "Installieren..."
 
 msgid  "&Install..."
-msgstr "&Install..."
+msgstr "Installieren..."
 
 msgid  "&Edit..."
 msgstr "&Edit..."
@@ -1949,26 +1949,26 @@ msgstr "upload"
 
 #. tabs
 msgid  "Welcome"
-msgstr "Welcome"
+msgstr "Willkommen"
 
 msgid  "Materials"
-msgstr "Materials"
+msgstr "Materialien"
 
 #. DNA 60, 75, 200, 250
 #. General tab
 msgid  "Temperature-Dominant"
-msgstr "Temperature-Dominant"
+msgstr "Temperatur-Dominant"
 
 msgid  "Share Profiles"
-msgstr "Share Profiles"
+msgstr "Profile teilen"
 
 #. Screen tab
 #. fields
 msgid  "Temperature-Sensing Coils"
-msgstr "Temperature-Sensing Coils"
+msgstr "Temperaturfühler Coils"
 
 msgid  "Power-Controlled Coils"
-msgstr "Power-Controlled Coils"
+msgstr "Leistungsgesteuerte Coils"
 
 msgid  "Running"
 msgstr "Running"
@@ -1980,7 +1980,7 @@ msgid  "(Standard)"
 msgstr "(Standard)"
 
 msgid  "Material Name"
-msgstr "Material Name"
+msgstr "Materialname"
 
 msgid  "Profile Name"
 msgstr "Profile Name"
@@ -2041,7 +2041,7 @@ msgstr "Move Material from Device"
 
 #. Mod tab
 msgid  "Safety"
-msgstr "Safety"
+msgstr "Sicherheit"
 
 msgid  "Max Peak Input Current:"
 msgstr "Max Peak Input Current:"
@@ -2083,7 +2083,7 @@ msgid  "Automatically lock when idle."
 msgstr "Automatisch gesperrt, wenn im Leerlauf."
 
 msgid  "Current Profile:"
-msgstr "Current Profile:"
+msgstr "Aktuelles Profil:"
 
 msgid  "Preheat"
 msgstr "Preheat"
@@ -2098,7 +2098,7 @@ msgid  "Use Replay on this profile."
 msgstr "Verwenden Sie Replay auf dieses Profil."
 
 msgid  "Puff saved, playing."
-msgstr "Puff saved, playing."
+msgstr "Zug gespeichert, spielt."
 
 msgid  "Warmth:"
 msgstr "Warmth:"
@@ -2114,7 +2114,7 @@ msgstr "Measure Ohms"
 
 #. Display tab
 msgid  "Brightness:"
-msgstr "Brightness:"
+msgstr "Helligkeit:"
 
 msgid  "Power Bank:"
 msgstr "Power Bank:"
@@ -2132,19 +2132,19 @@ msgid  "Very Dim"
 msgstr "Very Dim"
 
 msgid  "Clock:"
-msgstr "Clock:"
+msgstr "Uhr:"
 
 msgid  "12-Hour (AM/PM)"
-msgstr "12-Hour (AM/PM)"
+msgstr "12-Stunden (AM/PM)"
 
 msgid  "24-Hour"
-msgstr "24-Hour"
+msgstr "24 Stunden"
 
 msgid  "Screen:"
-msgstr "Screen:"
+msgstr "Bildschirm:"
 
 msgid  "Flipped"
-msgstr "Flipped"
+msgstr "Umgedreht"
 
 #. Mod tab
 msgid  "Manufacturer Max Puff Time:"
@@ -2215,51 +2215,51 @@ msgstr "Max Output Power:"
 
 #. Mod tab Replay (DNA 250 Color)
 msgid  "Restrict to viable coils."
-msgstr "Restrict to viable coils."
+msgstr "Beschränkung auf brauchbare Coils."
 
 msgid  "Allow on dubious coils."
-msgstr "Allow on dubious coils."
+msgstr "Erlaube es auf zweifelhaften Coils."
 
 #. Research tab
 msgid "Recording Rate:"
-msgstr "Recording Rate:"
+msgstr "Aufzeichnungsrate:"
 
 msgid  "Initial Recording Rate:"
-msgstr "Initial Recording Rate:"
+msgstr "Anfangsaufzeichnungsrate:"
 
 msgid  "Recording Probability:"
-msgstr "Recording Probability:"
+msgstr "Aufzeichnungswahrscheinlichkeit:"
 
 #. Theme Designer
 msgid  "Theme Designer"
 msgstr "Theme Designer"
 
 msgid  "Connect and Download Theme"
-msgstr "Connect and Download Theme"
+msgstr "Verbinden und Herunterladen des Themes"
 
 msgid  "Edit New Theme"
-msgstr "Edit New Theme"
+msgstr "Neues Theme bearbeiten"
 
 msgid  "Open Theme from File"
-msgstr "Open Theme from File"
+msgstr "Theme aus Datei öffnen"
 
 msgid  "&Apply"
-msgstr "&Apply"
+msgstr "Anwenden"
 
 msgid  "Apply"
-msgstr "Apply"
+msgstr "Anwenden"
 
 msgid  "Space Used"
-msgstr "Space Used"
+msgstr "Belegter Speicherplatz"
 
 msgid  "{0}: {1}% used"
-msgstr "{0}: {1}% used"
+msgstr "{0}: {1}% benutzt"
 
 msgid  "Download Theme"
-msgstr "Download Theme"
+msgstr "Theme herunterladen"
 
 msgid  "Upload Theme"
-msgstr "Upload Theme"
+msgstr "Theme hochladen"
 
 #. menus
 #. Share
@@ -2300,7 +2300,7 @@ msgstr "Credits"
 
 #. Appearance tab
 msgid  "Wallpaper"
-msgstr "Wallpaper"
+msgstr "Hintergrundbild"
 
 msgid  "Color Scheme"
 msgstr "Color Scheme"
@@ -2385,7 +2385,7 @@ msgid  "DNA 75 has an indicator light."
 msgstr "DNA 75 hat eine Kontrollleuchte."
 
 msgid  "Firing:"
-msgstr "Firing:"
+msgstr "Feuern:"
 
 msgid  "Charging:"
 msgstr "Aufladung:"
@@ -2398,20 +2398,20 @@ msgstr "Normal Operation:"
 
 #. Language tab
 msgid  "Messages"
-msgstr "Messages"
+msgstr "Nachrichten"
 
 msgid  "Units"
-msgstr "Units"
+msgstr "Einheiten"
 
 msgid  "Toggles"
 msgstr "Toggles"
 
 msgid  "Locale"
-msgstr "Locale"
+msgstr "Gebietsschema"
 
 #. Language tab, Messages
 msgid  "No Atomizer:"
-msgstr "No Atomizer:"
+msgstr "Kein Atomizer:"
 
 msgid  "Temp Protected:"
 msgstr "Temp Protected:"
@@ -2425,42 +2425,42 @@ msgstr "New Unlock:"
 msgid  "Unlock Set:"
 msgstr "Unlock Set:"
 
-# Make sure to keep the character # in the translation.
-# If a profile has no name, the DNA Color will replace # with the profile number.
-# For example, PROFILE # will become PROFILE 1, PROFILE 2, etc.
+# Achten Sie darauf, dass das Zeichen # in der Übersetzung erhalten bleibt.
+# Wenn ein Profil keinen Namen hat, ersetzt die DNA-Farbe # durch die Profilnummer.
+# So wird beispielsweise PROFILE # zu PROFILE 1, PROFILE 2, etc.
 msgid  "Profile #:"
-msgstr "Profile #:"
+msgstr "Profil #:"
 
 #. Language tab, Units
 msgid  "Percent (%):"
-msgstr "Percent (%):"
+msgstr "Prozent (%):"
 
 msgid  "Amperes (A):"
-msgstr "Amperes (A):"
+msgstr "Ampere (A):"
 
 msgid  "Volts (V):"
-msgstr "Volts (V):"
+msgstr "Volt (V):"
 
 msgid  "Watts (W):"
-msgstr "Watts (W):"
+msgstr "Watt (W):"
 
 msgid  "Ohms (Ω):"
-msgstr "Ohms (Ω):"
+msgstr "Ohm (Ω):"
 
 msgid  "Watt-Hours (Wh):"
-msgstr "Watt-Hours (Wh):"
+msgstr "Watt-Stunden (Wh):"
 
 msgid  "Milliwatt-Hours (mWh):"
-msgstr "Milliwatt-Hours (mWh):"
+msgstr "Milliwatt-Stunden (mWh):"
 
 msgid  "Seconds (s):"
-msgstr "Seconds (s):"
+msgstr "Sekunden (s):"
 
 msgid  "Minutes (m):"
-msgstr "Minutes (m):"
+msgstr "Minuten (m):"
 
 msgid  "Unknown:"
-msgstr "Unknown:"
+msgstr "Unbekannt:"
 
 #. Language tab, Toggles
 msgid  "On:"
@@ -2470,20 +2470,20 @@ msgid  "Off:"
 msgstr "Off:"
 
 msgid  "12-Hour:"
-msgstr "12-Hour:"
+msgstr "12-Stunden:"
 
 msgid  "24-Hour:"
-msgstr "24-Hour:"
+msgstr "24 Stunden:"
 
 #. Language tab, Locale
 msgid  "Date (M/d/yy):"
-msgstr "Date (M/d/yy):"
+msgstr "Datum (M/d/yy):"
 
 msgid  "12-Hour Time (h:mm tt):"
-msgstr "12-Hour Time (h:mm tt):"
+msgstr "12-Stunden-Zeit (h:mm tt):"
 
 msgid  "24-Hour Time (H:mm):"
-msgstr "24-Hour Time (H:mm):"
+msgstr "24-Stunden-Zeit (H:mm):"
 
 msgid  "AM:"
 msgstr "AM:"
@@ -2492,7 +2492,7 @@ msgid  "PM:"
 msgstr "PM:"
 
 msgid  "Decimal Separator:"
-msgstr "Decimal Separator:"
+msgstr "Dezimaltrennzeichen:"
 
 #. About tab
 msgid  "Title:"
@@ -2521,7 +2521,7 @@ msgid  "Delete Screen"
 msgstr "Delete Screen"
 
 msgid  "Are you sure you want to delete this screen?"
-msgstr "Are you sure you want to delete this screen?"
+msgstr "Sind Sie sicher, dass Sie diesen Bildschirm löschen möchten?"
 
 msgid        "Delete Control"
 msgid_plural "Delete Controls"
