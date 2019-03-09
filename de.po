@@ -818,25 +818,25 @@ msgid  "Last Time"
 msgstr "Last Time"
 
 msgid  "Charging Field {0}:"
-msgstr "Charging Field {0}:"
+msgstr "Ladefeld {0}:"
 
 msgid  "Brightness"
-msgstr "Brightness"
+msgstr "Helligkeit"
 
 msgid  "Firing Brightness:"
-msgstr "Firing Brightness:"
+msgstr "Feuerhelligkeit:"
 
 msgid  "Fade to..."
-msgstr "Fade to..."
+msgstr "Überblenden zu..."
 
 msgid  "Set to..."
-msgstr "Set to..."
+msgstr "Setzen auf..."
 
 msgid  "Temporarily set to..."
-msgstr "Temporarily set to..."
+msgstr "Vorübergehend eingestellt auf..."
 
 msgid  "Do not change."
-msgstr "Do not change."
+msgstr "Nicht ändern."
 
 msgid  "Screen active after puff."
 msgstr "Screen active after puff."
@@ -845,28 +845,28 @@ msgid  "Screen off after puff."
 msgstr "Screen off after puff."
 
 msgid  "No effect on idle state."
-msgstr "No effect on idle state."
+msgstr "Keine Auswirkung auf den Ruhezustand."
 
 msgid  "Active Brightness:"
-msgstr "Active Brightness:"
+msgstr "Aktive Helligkeit:"
 
 msgid  "Active Time:"
-msgstr "Active Time:"
+msgstr "Aktive Zeit:"
 
 msgid  "Idle Brightness:"
-msgstr "Idle Brightness:"
+msgstr "Leerlauf-Helligkeit:"
 
 msgid  "Idle Time:"
-msgstr "Idle Time:"
+msgstr "Leerlaufzeit:"
 
 msgid  "Charging Brightness:"
-msgstr "Charging Brightness:"
+msgstr "Ladehelligkeit:"
 
 msgid  "Fade-in Time:"
-msgstr "Fade-in Time:"
+msgstr "Einblendzeit:"
 
 msgid  "Fade-out Time:"
-msgstr "Fade-out Time:"
+msgstr "Ausblendzeitzeit:"
 
 #. Mod tab
 msgid  "Mod"
@@ -906,7 +906,7 @@ msgid  "Non-Removable"
 msgstr "Nicht herausnehmbar"
 
 msgid  "{0}-cell"
-msgstr "{0}-cell"
+msgstr "{0}-Zelle"
 
 msgid  "Watt-Hour Calculator"
 msgstr "Wattstundenrechner"
@@ -924,7 +924,7 @@ msgid  "Maximize Recharges"
 msgstr "Maximize Recharges"
 
 msgid  "Discharge Profile:"
-msgstr "Discharge Profile:"
+msgstr "Entladeprofil:"
 
 msgid  "Battery Analyzer"
 msgstr "Batterie-Analysator"
@@ -963,7 +963,7 @@ msgid  "Case Analyzer"
 msgstr "Case Analyzer"
 
 msgid  "{0} can be used to analyze your case's thermal properties."
-msgstr "{0} kann verwendet werden, um die thermischen Eigenschaften Ihres Gehäuse zu analysieren."
+msgstr "{0} kann verwendet werden, um die thermischen Eigenschaften Ihres Gehäuses zu analysieren."
 
 #. Research tab
 msgid  "Research"
@@ -1440,7 +1440,7 @@ msgid  "Current (A):"
 msgstr "Current (A):"
 
 msgid  "Temperature Monitoring Mode"
-msgstr "Temperature Monitoring Mode"
+msgstr "Temperaturüberwachungsmodus"
 
 msgid  "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
 msgstr "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
@@ -1493,7 +1493,7 @@ msgstr "&Accept"
 #. added in 2015-08-07
 #. Watt-Hour Calculator
 msgid  "Battery Pack Voltage"
-msgstr "Battery Pack Voltage"
+msgstr "Akkupackspannung"
 
 msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
 msgstr "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
@@ -1555,10 +1555,10 @@ msgid  "Error"
 msgstr "Error"
 
 msgid  "A researcher has already applied a seal to this device."
-msgstr "A researcher has already applied a seal to this device."
+msgstr "Ein Forscher hat dieses Gerät bereits mit einem Siegel versehen."
 
 msgid  "This device has not been sealed for research."
-msgstr "This device has not been sealed for research."
+msgstr "Dieses Gerät wurde nicht für Forschungszwecke versiegelt."
 
 #. added in 2015-08-07
 #. Tools->Show Serial Number
@@ -1768,10 +1768,10 @@ msgid  "Show Ohms on Custom"
 msgstr "Show Ohms on Custom"
 
 msgid  "New Coil"
-msgstr "New Coil"
+msgstr "Neue Coil"
 
 msgid  "Old Coil"
-msgstr "Old Coil"
+msgstr "Alte Coil"
 
 #. added in 2015-09-30
 #. Theme tab
@@ -1808,11 +1808,11 @@ msgid  "To continue, please connect one."
 msgstr "To continue, please connect one."
 
 msgid  "If one already IS connected, try unplugging and plugging it back in. The cable may be loose."
-msgstr "If one already IS connected, try unplugging and plugging it back in. The cable may be loose."
+msgstr "Wenn einer der beiden bereits angeschlossen ist, versuchen Sie, ihn aus- und wieder einzustecken. Das Kabel kann lose sein."
 
 #. Device Monitor
 msgid  "Are you sure you want to reset your statistics?"
-msgstr "Are you sure you want to reset your statistics?"
+msgstr "Sind Sie sicher, dass Sie Ihre Statistiken zurücksetzen möchten?"
 
 #. General tab
 msgid  "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
@@ -1822,24 +1822,24 @@ msgid  "Load Profile..."
 msgstr "Load Profile..."
 
 msgid  "Save Profile..."
-msgstr "Save Profile..."
+msgstr "Profil speichern..."
 
 msgid  "Copy Profile"
-msgstr "Copy Profile"
+msgstr "Profil kopieren"
 
 #. Mod tab
 msgid  "Behavior"
-msgstr "Behavior"
+msgstr "Verhalten"
 
 msgid  "Manufacturer Settings"
 msgstr "Manufacturer Settings"
 
 #. click seven times on the logo in Help->About to show these in Tools
 msgid  "Edit Translations"
-msgstr "Edit Translations"
+msgstr "Übersetzungen bearbeiten"
 
 msgid  "Test Translation"
-msgstr "Test Translation"
+msgstr "Test Übersetzung"
 
 #. EScribe 2.0
 msgid  "Connect and Download Settings"
@@ -1861,30 +1861,30 @@ msgstr "{0} watts / {1}"
 #. menus
 #. File
 msgid  "&New"
-msgstr "&New"
+msgstr "&Neu"
 
 #. Options
 msgid  "Automatically Check for Service &Packs"
-msgstr "Automatically Check for Service &Packs"
+msgstr "Automatische Überprüfung auf Service &Packs"
 
 msgid  "Automatically Connect to &Device"
-msgstr "Automatically Connect to &Device"
+msgstr "Automatische Verbindung zum &Gerät"
 
 msgid  "&Suggest Changes for Potential Mistakes"
-msgstr "&Suggest Changes for Potential Mistakes"
+msgstr "&Änderungen für mögliche Fehler vorschlagen"
 
 msgid  "&Language"
-msgstr "&Language"
+msgstr "&Sprache"
 
 msgid  "&Units"
-msgstr "&Units"
+msgstr "&Einheiten"
 
 msgid  "User &Interface"
-msgstr "User &Interface"
+msgstr "Benutzeroberfläche"
 
 #. Options->Language
 msgid  "&Autodetect"
-msgstr "&Autodetect"
+msgstr "&Automatische Erkennung"
 
 msgid  "&Install..."
 msgstr "&Install..."
@@ -2080,7 +2080,7 @@ msgid  "Unlock Sequence:"
 msgstr "Unlock Sequence:"
 
 msgid  "Automatically lock when idle."
-msgstr "Automatically lock when idle."
+msgstr "Automatisch gesperrt, wenn im Leerlauf."
 
 msgid  "Current Profile:"
 msgstr "Current Profile:"
@@ -2095,7 +2095,7 @@ msgid  "Boost"
 msgstr "Boost"
 
 msgid  "Use Replay on this profile."
-msgstr "Use Replay on this profile."
+msgstr "Verwenden Sie Replay auf dieses Profil."
 
 msgid  "Puff saved, playing."
 msgstr "Puff saved, playing."
@@ -2290,10 +2290,10 @@ msgid  "Screens"
 msgstr "Screens"
 
 msgid  "Indicator Light"
-msgstr "Indicator Light"
+msgstr "Kontrollleuchte"
 
 msgid  "Language"
-msgstr "Language"
+msgstr "Sprache"
 
 msgid  "Credits"
 msgstr "Credits"
@@ -2378,20 +2378,20 @@ msgstr "Chart"
 
 # This appears in Add Condition.
 msgid  "Hidden"
-msgstr "Hidden"
+msgstr "Versteckt"
 
 #. Indicator Light tab
 msgid  "DNA 75 has an indicator light."
-msgstr "DNA 75 has an indicator light."
+msgstr "DNA 75 hat eine Kontrollleuchte."
 
 msgid  "Firing:"
 msgstr "Firing:"
 
 msgid  "Charging:"
-msgstr "Charging:"
+msgstr "Aufladung:"
 
 msgid  "Charge Complete:"
-msgstr "Charge Complete:"
+msgstr "Ladevorgang vollendet:"
 
 msgid  "Normal Operation:"
 msgstr "Normal Operation:"
@@ -2793,11 +2793,11 @@ msgstr  "Default Condition"
 
 msgctxt "tdCondition"
 msgid   "{0} and..."
-msgstr  "{0} and..."
+msgstr  "{0} und..."
 
 msgctxt "tdCondition"
 msgid   "and"
-msgstr  "and"
+msgstr  "und"
 
 msgctxt "tdCondition"
 msgid   "{0} or..."
@@ -2825,7 +2825,7 @@ msgstr  "Main Screen"
 
 msgctxt "tdUsage"
 msgid   "New Atomizer"
-msgstr  "New Atomizer"
+msgstr  "Neuer Atomizer"
 
 #. actions
 msgid  "Atomizer"
@@ -2835,13 +2835,13 @@ msgid  "Measure Again"
 msgstr "Measure Again"
 
 msgid  "New Coil"
-msgstr "New Coil"
+msgstr "Neue Coil"
 
 msgid  "No, Old Coil"
-msgstr "No, Old Coil"
+msgstr "Nein, alte Coil"
 
 msgid  "Yes, New Coil"
-msgstr "Yes, New Coil"
+msgstr "Ja, neue Coil"
 
 msgid  "Go To"
 msgstr "Go To"
@@ -2862,16 +2862,16 @@ msgid  "Parent Screen"
 msgstr "Parent Screen"
 
 msgid  "Recording"
-msgstr "Recording"
+msgstr "Aufzeichnung"
 
 msgid  "Previous Puff"
-msgstr "Previous Puff"
+msgstr "Vorheriger Zug"
 
 msgid  "Next Puff"
-msgstr "Next Puff"
+msgstr "Nächster Zug"
 
 msgid  "Newest Puff"
-msgstr "Newest Puff"
+msgstr "Neuester Zug"
 
 msgid  "Lock Device"
 msgstr "Lock Device"
@@ -2885,7 +2885,7 @@ msgstr "Set Unlock Sequence"
 #. individual settings
 msgctxt "tdSetting"
 msgid   "General"
-msgstr  "General"
+msgstr  "Allgemeines"
 
 msgctxt "tdSetting"
 msgid   "Firing"
@@ -2898,7 +2898,7 @@ msgstr  "Theme"
 # This appears in Add Condition.
 msgctxt "tdSetting"
 msgid   "Highlighted"
-msgstr  "Highlighted"
+msgstr  "Hervorgehoben"
 
 msgctxt "tdSetting"
 msgid   "Profile"
@@ -2938,7 +2938,7 @@ msgstr  "12 Stunden/24 Stunden"
 
 msgctxt "tdSetting"
 msgid   "Lock"
-msgstr  "Lock"
+msgstr  "Sperren"
 
 msgctxt "tdSetting"
 msgid   "Auto"
@@ -2946,7 +2946,7 @@ msgstr  "Auto"
 
 msgctxt "tdSetting"
 msgid   "Auto Time"
-msgstr  "Auto Time"
+msgstr  "Auto Zeit"
 
 msgctxt "tdSetting"
 msgid   "Clicks"
@@ -3031,11 +3031,11 @@ msgstr  "Ohm Lock"
 
 msgctxt "tdSetting"
 msgid   "New Coil"
-msgstr  "New Coil"
+msgstr  "Neue Coil"
 
 msgctxt "tdSetting"
 msgid   "Old Coil"
-msgstr  "Old Coil"
+msgstr  "Alte Coil"
 
 msgctxt "tdSetting"
 msgid   "Statistics"
@@ -3043,7 +3043,7 @@ msgstr  "Statistics"
 
 msgctxt "tdSetting"
 msgid   "Since Reset"
-msgstr  "Since Reset"
+msgstr  "Seit dem Zurücksetzen"
 
 msgctxt "tdSetting"
 msgid   "Total"
@@ -3063,7 +3063,7 @@ msgstr  "Letzter Zug"
 
 msgctxt "tdSetting"
 msgid   "Energy"
-msgstr  "Energy"
+msgstr  "Energie"
 
 msgctxt "tdSetting"
 msgid   "Peak Temp"
@@ -3119,7 +3119,7 @@ msgstr  "Forschung"
 
 msgctxt "tdSetting"
 msgid   "Note"
-msgstr  "Note"
+msgstr  "Hinweis"
 
 msgctxt "tdSetting"
 msgid   "Sealed"
@@ -3187,7 +3187,7 @@ msgstr  "US-only"
 
 msgctxt "tdSetting"
 msgid   "Serial Number"
-msgstr  "Serial Number"
+msgstr  "Serial Nummer"
 
 msgctxt "tdSetting"
 msgid   "Board Temperature"
@@ -3279,7 +3279,7 @@ msgid  "Theme Installer"
 msgstr "Theme Installer"
 
 msgid  "Install this theme?"
-msgstr "Dieses Thema installieren?"
+msgstr "Dieses Theme installieren?"
 
 msgid  "Backups"
 msgstr "Backups"
